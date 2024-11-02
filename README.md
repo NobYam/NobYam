@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently studying in UTokyo.
+- 🌱 I’m currently learning about earth science, especially seismology.
 
 <!--
 **NobYam/NobYam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
